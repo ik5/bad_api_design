@@ -1,4 +1,4 @@
-[submodule "reveal.js"]
-	path = /lecture/reveal.js
+[submodule "lecture/reveal.js"]
+	path = lecture/reveal.js
 	url = git@github.com:hakimel/reveal.js.git
   branch = 3.8.0
